@@ -1,4 +1,4 @@
-"""# Music Knowledge Graph
+# Music Knowledge Graph
 
 > **Knowledge Engineering & Semantic Web — Final Project**
 
@@ -207,4 +207,4 @@ Without it the LLM generates wrong namespace prefixes and hallucinated property 
 
 Code: MIT License  
 Data: MusicBrainz data is CC0. Wikidata data is CC0.
-"""
+
