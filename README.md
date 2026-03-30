@@ -197,7 +197,7 @@ Without it the LLM generates wrong namespace prefixes and hallucinated property 
 | Ontology / Reasoning | OWLReady2 |
 | Knowledge Graph Embeddings | PyKEEN 1.10, PyTorch 2.x |
 | Embedding visualisation | scikit-learn t-SNE, matplotlib |
-| LLM (RAG) | Ollama llama3 (local) |
+| LLM (RAG) | Ollama Qwen3 (local) |
 | NER | spaCy en_core_web_sm |
 | Data source | MusicBrainz API (CC0) |
 
