@@ -1,0 +1,68 @@
+Private Entity,Label,Class,External URI,Source,Confidence,Status
+mus:21,21,Album,http://www.wikidata.org/entity/Q211561,Wikidata,0.93,LINKED
+mus:AbbeyRoad,Abbey Road,Album,http://www.wikidata.org/entity/Q213916,Wikidata,0.99,LINKED
+mus:BlondeAlbum,Blonde,Album,http://www.wikidata.org/entity/Q20900168,Wikidata,0.95,LINKED
+mus:Discovery,Discovery,Album,http://www.wikidata.org/entity/Q584083,Wikidata,0.94,LINKED
+mus:I_Never_Loved,I Never Loved a Man,Album,http://www.wikidata.org/entity/Q1640395,Wikidata,0.96,LINKED
+mus:KindOfBlue,Kind of Blue,Album,http://www.wikidata.org/entity/Q11649,Wikidata,0.99,LINKED
+mus:Legend,Legend,Album,http://www.wikidata.org/entity/Q1372542,Wikidata,0.96,LINKED
+mus:Lemonade,Lemonade,Album,http://www.wikidata.org/entity/Q19953577,Wikidata,0.95,LINKED
+mus:OKComputer,OK Computer,Album,http://www.wikidata.org/entity/Q190500,Wikidata,0.99,LINKED
+mus:PurpleRain,Purple Rain,Album,http://www.wikidata.org/entity/Q1386743,Wikidata,0.98,LINKED
+mus:Blueprint,The Blueprint,Album,http://www.wikidata.org/entity/Q212079,Wikidata,0.98,LINKED
+mus:Thriller,Thriller,Album,http://www.wikidata.org/entity/Q174305,Wikidata,0.98,LINKED
+mus:TPAB,To Pimp a Butterfly,Album,http://www.wikidata.org/entity/Q18386281,Wikidata,0.99,LINKED
+mus:FearOfGodAlbum,WHEN WE ALL FALL ASLEEP,Album,http://www.wikidata.org/entity/Q60003934,Wikidata,0.97,LINKED
+mus:Ziggy,Ziggy Stardust,Album,http://www.wikidata.org/entity/Q483923,Wikidata,0.97,LINKED
+mus:Adele,Adele Laurie Blue,Artist,http://www.wikidata.org/entity/Q15212,Wikidata,0.99,LINKED
+mus:ArethaFranklin,Aretha Franklin,Artist,http://www.wikidata.org/entity/Q130070,Wikidata,0.99,LINKED
+mus:BeyonceKnowles,Beyoncé Knowles,Artist,http://www.wikidata.org/entity/Q11975,Wikidata,0.99,LINKED
+mus:BilliEilish,Billie Eilish,Artist,http://www.wikidata.org/entity/Q47737602,Wikidata,0.99,LINKED
+mus:BobMarley,Bob Marley,Artist,http://www.wikidata.org/entity/Q6490,Wikidata,0.99,LINKED
+mus:BurnaFire,Burna Boy,Artist,http://www.wikidata.org/entity/Q57609309,Wikidata,0.97,LINKED
+mus:DaftPunk,Daft Punk,Artist,http://www.wikidata.org/entity/Q184019,Wikidata,0.99,LINKED
+mus:DavidBowie,David Bowie,Artist,http://www.wikidata.org/entity/Q5383,Wikidata,0.99,LINKED
+mus:DrakeBell,Drake,Artist,http://www.wikidata.org/entity/Q45372,Wikidata,0.97,LINKED
+mus:NingeniaClapton,Eric Clapton,Artist,http://www.wikidata.org/entity/Q48835,Wikidata,0.98,LINKED
+mus:FrankOcean,Frank Ocean,Artist,http://www.wikidata.org/entity/Q5485932,Wikidata,0.99,LINKED
+mus:JamesB,James Brown,Artist,http://www.wikidata.org/entity/Q5950,Wikidata,0.99,LINKED
+mus:JayZ,Jay-Z,Artist,http://www.wikidata.org/entity/Q139952,Wikidata,0.99,LINKED
+mus:KendrickLamar,Kendrick Lamar,Artist,http://www.wikidata.org/entity/Q310394,Wikidata,0.99,LINKED
+mus:MichaelJackson,Michael Jackson,Artist,http://www.wikidata.org/entity/Q2831,Wikidata,0.99,LINKED
+mus:MilesDavis,Miles Davis,Artist,http://www.wikidata.org/entity/Q93341,Wikidata,0.99,LINKED
+mus:NinaSimone,Nina Simone,Artist,http://www.wikidata.org/entity/Q83311,Wikidata,0.99,LINKED
+mus:PaulMcCartney,Paul McCartney,Artist,http://www.wikidata.org/entity/Q2599,Wikidata,0.99,LINKED
+mus:PrinceRogers,Prince,Artist,http://www.wikidata.org/entity/Q7542,Wikidata,0.99,LINKED
+mus:RadioheadBand,Radiohead,Artist,http://www.wikidata.org/entity/Q135156,Wikidata,0.99,LINKED
+mus:TaylorSwift,Taylor Swift,Artist,http://www.wikidata.org/entity/Q26876,Wikidata,0.99,LINKED
+mus:BritAwardArtist,BRIT Award for British Artist of the Year,Award,http://www.wikidata.org/entity/Q1060700,Wikidata,0.97,LINKED
+mus:BillboardMusicAward,Billboard Music Award,Award,http://www.wikidata.org/entity/Q665413,Wikidata,0.97,LINKED
+mus:GrammyBestAlbum,Grammy Award for Album of the Year,Award,http://www.wikidata.org/entity/Q41254,Wikidata,0.99,LINKED
+mus:GrammyBestArtist,Grammy Award for Best New Artist,Award,http://www.wikidata.org/entity/Q175252,Wikidata,0.99,LINKED
+mus:GrammyBestRnB,Grammy Award for Best R&B Album,Award,http://www.wikidata.org/entity/Q579790,Wikidata,0.98,LINKED
+mus:GrammyBestRap,Grammy Award for Best Rap Album,Award,http://www.wikidata.org/entity/Q579974,Wikidata,0.98,LINKED
+mus:MTVVideoAward,MTV Video Music Award,Award,http://www.wikidata.org/entity/Q371083,Wikidata,0.97,LINKED
+mus:MercuryPrize,Mercury Prize,Award,http://www.wikidata.org/entity/Q230303,Wikidata,0.99,LINKED
+mus:Australia,Australia,Country,http://www.wikidata.org/entity/Q408,Wikidata,1.0,LINKED
+mus:Canada,Canada,Country,http://www.wikidata.org/entity/Q16,Wikidata,1.0,LINKED
+mus:France,France,Country,http://www.wikidata.org/entity/Q142,Wikidata,1.0,LINKED
+mus:Jamaica,Jamaica,Country,http://www.wikidata.org/entity/Q766,Wikidata,0.7,LINKED
+mus:Nigeria,Nigeria,Country,http://www.wikidata.org/entity/Q1033,Wikidata,1.0,LINKED
+mus:UK,UK,Country,http://dbpedia.org/resource/United_Kingdom,DBpedia,0.9714,LINKED
+mus:USA,USA,Country,http://dbpedia.org/resource/United_States,DBpedia,0.9945,LINKED
+mus:AlternativeRock,Alternative Rock,Genre,http://www.wikidata.org/entity/Q11366,Wikidata,1.0,LINKED
+mus:Classical,Classical music,Genre,http://www.wikidata.org/entity/Q9730,Wikidata,0.7,LINKED
+mus:Electronic,Electronic music,Genre,http://www.wikidata.org/entity/Q9778,Wikidata,0.7,LINKED
+mus:Folk,Folk music,Genre,http://www.wikidata.org/entity/Q43343,Wikidata,1.0,LINKED
+mus:HipHop,Hip-hop music,Genre,http://dbpedia.org/resource/Hip_hop_music,DBpedia,1.0,LINKED
+mus:Jazz,Jazz music,Genre,http://www.wikidata.org/entity/Q8341,Wikidata,0.75,LINKED
+mus:Pop,Pop music,Genre,http://www.wikidata.org/entity/Q37073,Wikidata,1.0,LINKED
+mus:RnB,Rhythm and Blues,Genre,http://www.wikidata.org/entity/Q45981,Wikidata,1.0,LINKED
+mus:Rock,Rock music,Genre,http://www.wikidata.org/entity/Q11399,Wikidata,1.0,LINKED
+mus:Soul,Soul music,Genre,http://www.wikidata.org/entity/Q131272,Wikidata,0.75,LINKED
+mus:BlueNote,Blue Note Records,RecordLabel,http://www.wikidata.org/entity/Q183549,Wikidata,0.99,LINKED
+mus:ColumbiaRecords,Columbia Records,RecordLabel,http://www.wikidata.org/entity/Q183412,Wikidata,0.99,LINKED
+mus:DefJamRecordings,Def Jam Recordings,RecordLabel,http://www.wikidata.org/entity/Q193023,Wikidata,0.99,LINKED
+mus:SonyMusicUK,Sony Music UK,RecordLabel,http://www.wikidata.org/entity/Q212699,Wikidata,0.95,LINKED
+mus:UniversalMusic,Universal Music,RecordLabel,http://www.wikidata.org/entity/Q183563,Wikidata,0.97,LINKED
+mus:XLRecordings,XL Recordings,RecordLabel,http://www.wikidata.org/entity/Q927278,Wikidata,0.97,LINKED

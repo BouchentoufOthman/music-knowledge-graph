@@ -1,0 +1,87 @@
+bio_snippet,entity,label
+"Beyoncé is a person from USA, born in 1981, known for 2000s,",Beyoncé,ORG
+"Beyoncé is a person from USA, born in 1981, known for 2000s,",USA,GPE
+"Beyoncé is a person from USA, born in 1981, known for 2000s,",1981,DATE
+"Beyoncé is a person from USA, born in 1981, known for 2000s,",2000s,DATE
+"Beyoncé is a person from USA, born in 1981, known for 2000s,","2010s,",DATE
+"Beyoncé is a person from USA, born in 1981, known for 2000s,",american,NORP
+"Michael Jackson (“King of Pop”) is a person from USA, born i",Michael Jackson,PERSON
+"Michael Jackson (“King of Pop”) is a person from USA, born i",King of Pop,WORK_OF_ART
+"Michael Jackson (“King of Pop”) is a person from USA, born i",USA,GPE
+"Michael Jackson (“King of Pop”) is a person from USA, born i",1958,DATE
+"Michael Jackson (“King of Pop”) is a person from USA, born i",r&b,PERSON
+"Michael Jackson (“King of Pop”) is a person from USA, born i",jack swing,PERSON
+"David Bowie (English singer‐songwriter) is a person from UK,",David Bowie,PERSON
+"David Bowie (English singer‐songwriter) is a person from UK,",English,LANGUAGE
+"David Bowie (English singer‐songwriter) is a person from UK,",UK,GPE
+"David Bowie (English singer‐songwriter) is a person from UK,",1947,DATE
+"David Bowie (English singer‐songwriter) is a person from UK,",british,NORP
+"Aretha Franklin is a person from USA, born in 1942, known fo",Aretha Franklin,PERSON
+"Aretha Franklin is a person from USA, born in 1942, known fo",USA,GPE
+"Aretha Franklin is a person from USA, born in 1942, known fo",1942,DATE
+"Eric Clapton is a person from UK, born in 1945, known for bl",Eric Clapton,PERSON
+"Eric Clapton is a person from UK, born in 1945, known for bl",UK,GPE
+"Eric Clapton is a person from UK, born in 1945, known for bl",1945,DATE
+"JAY‐Z (US rapper) is a person from USA, born in 1969, known ",US,GPE
+"JAY‐Z (US rapper) is a person from USA, born in 1969, known ",USA,GPE
+"JAY‐Z (US rapper) is a person from USA, born in 1969, known ",1969,DATE
+"JAY‐Z (US rapper) is a person from USA, born in 1969, known ",east coast,LOC
+"Kendrick Lamar is a person from USA, born in 1987, known for",Kendrick Lamar,PERSON
+"Kendrick Lamar is a person from USA, born in 1987, known for",USA,GPE
+"Kendrick Lamar is a person from USA, born in 1987, known for",1987,DATE
+"Kendrick Lamar is a person from USA, born in 1987, known for","2010s, 2020s",DATE
+"Adele (UK soul/jazz singer) is a person from UK, born in 198",UK,GPE
+"Adele (UK soul/jazz singer) is a person from UK, born in 198",UK,GPE
+"Adele (UK soul/jazz singer) is a person from UK, born in 198",1988,DATE
+"Drake (Canadian rapper) is a person from Canada, born in 198",Canadian,NORP
+"Drake (Canadian rapper) is a person from Canada, born in 198",Canada,GPE
+"Drake (Canadian rapper) is a person from Canada, born in 198",1986,DATE
+"Drake (Canadian rapper) is a person from Canada, born in 198",r&b,PERSON
+"Drake (Canadian rapper) is a person from Canada, born in 198",r&b,PERSON
+"Taylor Swift is a person from USA, born in 1989, known for 2",Taylor Swift,PERSON
+"Taylor Swift is a person from USA, born in 1989, known for 2",USA,GPE
+"Taylor Swift is a person from USA, born in 1989, known for 2",1989,DATE
+"Taylor Swift is a person from USA, born in 1989, known for 2",2000s,DATE
+"Taylor Swift is a person from USA, born in 1989, known for 2","2010s,",DATE
+"Taylor Swift is a person from USA, born in 1989, known for 2",the decade,DATE
+"Radiohead is a group from UK, born in 1991, known for altern",UK,GPE
+"Radiohead is a group from UK, born in 1991, known for altern",1991,DATE
+"Nina Simone is a person from USA, born in 1933, known for bl",Nina Simone,PERSON
+"Nina Simone is a person from USA, born in 1933, known for bl",USA,GPE
+"Nina Simone is a person from USA, born in 1933, known for bl",1933,DATE
+"Nina Simone is a person from USA, born in 1933, known for bl",r&b,PERSON
+"Bob Marley & The Wailers is a group from Jamaica, born in 19",Bob Marley,PERSON
+"Bob Marley & The Wailers is a group from Jamaica, born in 19",Wailers,ORG
+"Bob Marley & The Wailers is a group from Jamaica, born in 19",Jamaica,GPE
+"Bob Marley & The Wailers is a group from Jamaica, born in 19",1970,DATE
+"Daft Punk (French electronic duo) is a group from France, bo",Daft Punk,ORG
+"Daft Punk (French electronic duo) is a group from France, bo",French,NORP
+"Daft Punk (French electronic duo) is a group from France, bo",France,GPE
+"Daft Punk (French electronic duo) is a group from France, bo",1993,DATE
+"Daft Punk (French electronic duo) is a group from France, bo",electro house,ORG
+"Burna Boy (Nigerian rapper, singer-songwriter, and record pr",Burna Boy,PERSON
+"Burna Boy (Nigerian rapper, singer-songwriter, and record pr",Nigerian,NORP
+"Burna Boy (Nigerian rapper, singer-songwriter, and record pr",Nigeria,GPE
+"Burna Boy (Nigerian rapper, singer-songwriter, and record pr",1991,DATE
+Prince (“The Artist Formerly Known as…”) is a person from US,The Artist Formerly Known,WORK_OF_ART
+Prince (“The Artist Formerly Known as…”) is a person from US,USA,GPE
+Prince (“The Artist Formerly Known as…”) is a person from US,1958,DATE
+Prince (“The Artist Formerly Known as…”) is a person from US,r&b,PERSON
+"Billie Eilish is a person from USA, born in 2001, known for ",Billie Eilish,PERSON
+"Billie Eilish is a person from USA, born in 2001, known for ",USA,GPE
+"Billie Eilish is a person from USA, born in 2001, known for ",2001,DATE
+"Billie Eilish is a person from USA, born in 2001, known for ",r&b,PERSON
+"Frank Ocean is a person from USA, born in 1987, known for al",Frank Ocean,PERSON
+"Frank Ocean is a person from USA, born in 1987, known for al",USA,GPE
+"Frank Ocean is a person from USA, born in 1987, known for al",1987,DATE
+"Frank Ocean is a person from USA, born in 1987, known for al",r&b,PERSON
+"Frank Ocean is a person from USA, born in 1987, known for al",r&b,PERSON
+"Frank Ocean is a person from USA, born in 1987, known for al",r&b,PERSON
+"Paul McCartney (The Beatles) is a person from UK, born in 19",Paul McCartney,PERSON
+"Paul McCartney (The Beatles) is a person from UK, born in 19",UK,GPE
+"Paul McCartney (The Beatles) is a person from UK, born in 19",1942,DATE
+"Paul McCartney (The Beatles) is a person from UK, born in 19",british,NORP
+"Paul McCartney (The Beatles) is a person from UK, born in 19",rock & roll,ORG
+"Miles Davis (jazz trumpeter, bandleader, songwriter) is a pe",Miles Davis,PERSON
+"Miles Davis (jazz trumpeter, bandleader, songwriter) is a pe",USA,GPE
+"Miles Davis (jazz trumpeter, bandleader, songwriter) is a pe",1926,DATE

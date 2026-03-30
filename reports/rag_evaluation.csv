@@ -1,0 +1,6 @@
+Question,Baseline Success,Baseline Repairs,RAG Success,RAG Repairs,RAG Results Count
+Which artists won the Grammy Award for Album of the Year?,False,0,False,3,0
+What genre does Kendrick Lamar play?,False,1,False,0,0
+Which record label is Adele signed to?,False,0,True,0,1
+Which artists were influenced by Aretha Franklin?,False,0,False,0,0
+What albums were released after 2010?,False,0,False,3,0

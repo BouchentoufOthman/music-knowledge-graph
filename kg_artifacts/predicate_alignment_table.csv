@@ -1,0 +1,15 @@
+Private Predicate,Keyword Used,Wikidata PID,Wikidata Label,Alignment Type,Rationale
+prop:wonAward,award,wdt:P166,award received,equivalent,P166 'award received' is the standard Wikidata property for winning an award. Semantically identical.
+prop:hasGenre,genre,wdt:P136,genre,equivalent,P136 'genre' maps directly to prop:hasGenre. Both assert the genre of a musical work or artist.
+prop:releasedAlbum,discography,wdt:P358,discography,subProperty,P358 'discography' groups all releases; prop:releasedAlbum is narrower (albums only).
+prop:signedTo,record label,wdt:P264,record label,equivalent,P264 'record label' is the canonical Wikidata property for artist-label affiliation.
+prop:originatesFrom,country of origin,wdt:P495,country of origin,equivalent,P495 'country of origin' matches prop:originatesFrom for both artists and albums.
+prop:collaboratedWith,performer,wdt:P175,performer,related,"P175 links a work to a performer, not artist-to-artist. No exact Wikidata equivalent exists for direct collaboration."
+prop:influencedBy,influenced by,wdt:P737,influenced by,equivalent,P737 'influenced by' is a direct semantic match to prop:influencedBy.
+prop:producedBy,performer,wdt:P175,performer,subProperty,P175 'performer' is the closest match for album->artist. prop:producedBy is narrower (emphasises production role).
+prop:birthYear,date of birth,wdt:P569,date of birth,subProperty,P569 is a full timestamp; prop:birthYear is year-only (coarser granularity).
+prop:activeFrom,work period start,wdt:P2031,work period (start),equivalent,P2031 'work period (start)' directly matches prop:activeFrom.
+prop:releaseYear,publication date,wdt:P577,publication date,subProperty,P577 is a full timestamp; prop:releaseYear stores year only.
+prop:albumRating,review score,wdt:P444,review score,related,P444 stores review scores as strings; prop:albumRating is a typed decimal. Related but different datatype semantics.
+prop:foundedYear,inception,wdt:P571,inception,subProperty,P571 'inception' is a full timestamp; prop:foundedYear is year-only.
+prop:partOfGenre,subclass of,wdt:P279,subclass of,related,P279 is the generic subclass relation; prop:partOfGenre is genre-specific.

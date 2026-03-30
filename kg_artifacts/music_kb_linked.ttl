@@ -1,0 +1,1014 @@
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mus: <http://example.org/music/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prop: <http://example.org/music/prop/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sch: <https://schema.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+mus:21_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:21 ;
+    sch:value 0.93 .
+
+mus:AbbeyRoad_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:AbbeyRoad ;
+    sch:value 0.99 .
+
+mus:Adele_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Adele ;
+    sch:value 0.99 .
+
+mus:AlternativeRock_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:AlternativeRock ;
+    sch:value 1.0 .
+
+mus:ArethaFranklin_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:ArethaFranklin ;
+    sch:value 0.99 .
+
+mus:Australia_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Australia ;
+    sch:value 1.0 .
+
+mus:BeyonceKnowles_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:BeyonceKnowles ;
+    sch:value 0.99 .
+
+mus:BillboardMusicAward_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:BillboardMusicAward ;
+    sch:value 0.97 .
+
+mus:BilliEilish_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:BilliEilish ;
+    sch:value 0.99 .
+
+mus:BlondeAlbum_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:BlondeAlbum ;
+    sch:value 0.95 .
+
+mus:BlueNote_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:BlueNote ;
+    sch:value 0.99 .
+
+mus:Blueprint_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Blueprint ;
+    sch:value 0.98 .
+
+mus:BobMarley_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:BobMarley ;
+    sch:value 0.99 .
+
+mus:BritAwardArtist_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:BritAwardArtist ;
+    sch:value 0.97 .
+
+mus:BurnaFire_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:BurnaFire ;
+    sch:value 0.97 .
+
+mus:Canada_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Canada ;
+    sch:value 1.0 .
+
+mus:Classical_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Classical ;
+    sch:value 0.7 .
+
+mus:ColumbiaRecords_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:ColumbiaRecords ;
+    sch:value 0.99 .
+
+mus:DaftPunk_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:DaftPunk ;
+    sch:value 0.99 .
+
+mus:DavidBowie_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:DavidBowie ;
+    sch:value 0.99 .
+
+mus:DefJamRecordings_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:DefJamRecordings ;
+    sch:value 0.99 .
+
+mus:Discovery_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Discovery ;
+    sch:value 0.94 .
+
+mus:DrakeBell_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:DrakeBell ;
+    sch:value 0.97 .
+
+mus:Electronic_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Electronic ;
+    sch:value 0.7 .
+
+mus:FearOfGodAlbum_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:FearOfGodAlbum ;
+    sch:value 0.97 .
+
+mus:Folk_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Folk ;
+    sch:value 1.0 .
+
+mus:France_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:France ;
+    sch:value 1.0 .
+
+mus:FrankOcean_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:FrankOcean ;
+    sch:value 0.99 .
+
+mus:GrammyBestAlbum_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:GrammyBestAlbum ;
+    sch:value 0.99 .
+
+mus:GrammyBestArtist_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:GrammyBestArtist ;
+    sch:value 0.99 .
+
+mus:GrammyBestRap_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:GrammyBestRap ;
+    sch:value 0.98 .
+
+mus:GrammyBestRnB_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:GrammyBestRnB ;
+    sch:value 0.98 .
+
+mus:HipHop_sameAs_conf a prov:Entity ;
+    prov:used "DBpedia" ;
+    prov:wasDerivedFrom mus:HipHop ;
+    sch:value 1.0 .
+
+mus:I_Never_Loved_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:I_Never_Loved ;
+    sch:value 0.96 .
+
+mus:Jamaica_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Jamaica ;
+    sch:value 0.7 .
+
+mus:JamesB_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:JamesB ;
+    sch:value 0.99 .
+
+mus:JayZ_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:JayZ ;
+    sch:value 0.99 .
+
+mus:Jazz_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Jazz ;
+    sch:value 0.75 .
+
+mus:KendrickLamar_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:KendrickLamar ;
+    sch:value 0.99 .
+
+mus:KindOfBlue_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:KindOfBlue ;
+    sch:value 0.99 .
+
+mus:Legend_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Legend ;
+    sch:value 0.96 .
+
+mus:Lemonade_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Lemonade ;
+    sch:value 0.95 .
+
+mus:MTVVideoAward_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:MTVVideoAward ;
+    sch:value 0.97 .
+
+mus:MercuryPrize_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:MercuryPrize ;
+    sch:value 0.99 .
+
+mus:MichaelJackson_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:MichaelJackson ;
+    sch:value 0.99 .
+
+mus:MilesDavis_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:MilesDavis ;
+    sch:value 0.99 .
+
+mus:Nigeria_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Nigeria ;
+    sch:value 1.0 .
+
+mus:NinaSimone_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:NinaSimone ;
+    sch:value 0.99 .
+
+mus:NingeniaClapton_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:NingeniaClapton ;
+    sch:value 0.98 .
+
+mus:OKComputer_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:OKComputer ;
+    sch:value 0.99 .
+
+mus:PaulMcCartney_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:PaulMcCartney ;
+    sch:value 0.99 .
+
+mus:Pop_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Pop ;
+    sch:value 1.0 .
+
+mus:PrinceRogers_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:PrinceRogers ;
+    sch:value 0.99 .
+
+mus:PurpleRain_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:PurpleRain ;
+    sch:value 0.98 .
+
+mus:RadioheadBand_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:RadioheadBand ;
+    sch:value 0.99 .
+
+mus:RnB_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:RnB ;
+    sch:value 1.0 .
+
+mus:Rock_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Rock ;
+    sch:value 1.0 .
+
+mus:SonyMusicUK_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:SonyMusicUK ;
+    sch:value 0.95 .
+
+mus:Soul_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Soul ;
+    sch:value 0.75 .
+
+mus:TPAB_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:TPAB ;
+    sch:value 0.99 .
+
+mus:TaylorSwift_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:TaylorSwift ;
+    sch:value 0.99 .
+
+mus:Thriller_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Thriller ;
+    sch:value 0.98 .
+
+mus:UK_sameAs_conf a prov:Entity ;
+    prov:used "DBpedia" ;
+    prov:wasDerivedFrom mus:UK ;
+    sch:value 0.9714 .
+
+mus:USA_sameAs_conf a prov:Entity ;
+    prov:used "DBpedia" ;
+    prov:wasDerivedFrom mus:USA ;
+    sch:value 0.9945 .
+
+mus:UniversalMusic_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:UniversalMusic ;
+    sch:value 0.97 .
+
+mus:XLRecordings_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:XLRecordings ;
+    sch:value 0.97 .
+
+mus:Ziggy_sameAs_conf a prov:Entity ;
+    prov:used "Wikidata" ;
+    prov:wasDerivedFrom mus:Ziggy ;
+    sch:value 0.97 .
+
+prop:activeFrom a owl:DatatypeProperty ;
+    rdfs:label "Year career started" ;
+    rdfs:range xsd:gYear .
+
+prop:albumRating a owl:DatatypeProperty ;
+    rdfs:label "Critical rating 0-10" ;
+    rdfs:range xsd:decimal .
+
+prop:birthYear a owl:DatatypeProperty ;
+    rdfs:label "Year of birth" ;
+    rdfs:range xsd:gYear .
+
+prop:collaboratedWith a owl:ObjectProperty,
+        owl:SymmetricProperty ;
+    rdfs:label "Artist collaborated with another artist" ;
+    rdfs:domain mus:Artist ;
+    rdfs:range mus:Artist .
+
+prop:foundedYear a owl:DatatypeProperty ;
+    rdfs:label "Year label founded" ;
+    rdfs:range xsd:gYear .
+
+prop:hasGenre a owl:ObjectProperty ;
+    rdfs:label "Artist or album has genre" ;
+    rdfs:range mus:Genre .
+
+prop:influencedBy a owl:ObjectProperty ;
+    rdfs:label "Artist was influenced by another artist" ;
+    rdfs:domain mus:Artist ;
+    rdfs:range mus:Artist .
+
+prop:originatesFrom a owl:ObjectProperty ;
+    rdfs:label "Artist originates from country" ;
+    rdfs:range mus:Country .
+
+prop:partOfGenre a owl:ObjectProperty ;
+    rdfs:label "Genre is a subgenre of another genre" .
+
+prop:releaseYear a owl:DatatypeProperty ;
+    rdfs:label "Year album released" ;
+    rdfs:range xsd:gYear .
+
+prop:releasedAlbum a owl:ObjectProperty ;
+    rdfs:label "Artist released album" ;
+    rdfs:domain mus:Artist ;
+    rdfs:range mus:Album ;
+    owl:inverseOf prop:producedBy .
+
+prop:signedTo a owl:ObjectProperty ;
+    rdfs:label "Artist signed to record label" ;
+    rdfs:domain mus:Artist ;
+    rdfs:range mus:RecordLabel .
+
+prop:wonAward a owl:ObjectProperty ;
+    rdfs:label "Artist won award" ;
+    rdfs:range mus:Award .
+
+mus:Australia a mus:Country ;
+    rdfs:label "Australia" ;
+    owl:sameAs wd:Q408 .
+
+mus:BlueNote a mus:RecordLabel ;
+    rdfs:label "Blue Note Records" ;
+    prop:foundedYear "1939"^^xsd:gYear ;
+    prop:originatesFrom mus:USA ;
+    owl:sameAs wd:Q183549 .
+
+mus:BurnaFire a mus:Artist ;
+    rdfs:label "Burna Boy" ;
+    prop:activeFrom "2011"^^xsd:gYear ;
+    prop:birthYear "1991"^^xsd:gYear ;
+    prop:collaboratedWith mus:BeyonceKnowles ;
+    prop:hasGenre mus:Pop,
+        mus:RnB ;
+    prop:originatesFrom mus:Nigeria ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:GrammyBestRnB ;
+    owl:sameAs wd:Q57609309 ;
+    foaf:name "Burna Boy" .
+
+mus:Classical a mus:Genre ;
+    rdfs:label "Classical music" ;
+    owl:sameAs wd:Q9730 .
+
+mus:NingeniaClapton a mus:Artist ;
+    rdfs:label "Eric Clapton" ;
+    prop:activeFrom "1963"^^xsd:gYear ;
+    prop:birthYear "1945"^^xsd:gYear ;
+    prop:hasGenre mus:Rock ;
+    prop:originatesFrom mus:UK ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    owl:sameAs wd:Q48835 ;
+    foaf:name "Eric Clapton" .
+
+mus:TaylorSwift a mus:Artist ;
+    rdfs:label "Taylor Swift" ;
+    prop:activeFrom "2004"^^xsd:gYear ;
+    prop:birthYear "1989"^^xsd:gYear ;
+    prop:hasGenre mus:Folk,
+        mus:Pop ;
+    prop:influencedBy mus:PaulMcCartney ;
+    prop:originatesFrom mus:USA ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:GrammyBestAlbum,
+        mus:GrammyBestArtist,
+        mus:MTVVideoAward ;
+    owl:sameAs wd:Q26876 ;
+    foaf:name "Taylor Swift" .
+
+prop:producedBy a owl:ObjectProperty ;
+    rdfs:label "Album produced by artist" ;
+    rdfs:domain mus:Album ;
+    rdfs:range mus:Artist .
+
+mus:21 a mus:Album ;
+    rdfs:label "21" ;
+    prop:albumRating 9.0 ;
+    prop:hasGenre mus:Pop,
+        mus:Soul ;
+    prop:producedBy mus:Adele ;
+    prop:releaseYear "2011"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    dc:title "21" ;
+    owl:sameAs wd:Q211561 .
+
+mus:AbbeyRoad a mus:Album ;
+    rdfs:label "Abbey Road" ;
+    prop:albumRating 9.7 ;
+    prop:hasGenre mus:Pop,
+        mus:Rock ;
+    prop:producedBy mus:PaulMcCartney ;
+    prop:releaseYear "1969"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    dc:title "Abbey Road" ;
+    owl:sameAs wd:Q213916 .
+
+mus:Adele a mus:Artist ;
+    rdfs:label "Adele Laurie Blue" ;
+    prop:activeFrom "2006"^^xsd:gYear ;
+    prop:birthYear "1988"^^xsd:gYear ;
+    prop:hasGenre mus:Pop,
+        mus:Soul ;
+    prop:influencedBy mus:ArethaFranklin ;
+    prop:originatesFrom mus:UK ;
+    prop:releasedAlbum mus:21 ;
+    prop:signedTo mus:XLRecordings ;
+    prop:wonAward mus:BritAwardArtist,
+        mus:GrammyBestAlbum,
+        mus:GrammyBestArtist ;
+    owl:sameAs wd:Q15212 ;
+    foaf:name "Adele Laurie Blue" .
+
+mus:BilliEilish a mus:Artist ;
+    rdfs:label "Billie Eilish" ;
+    prop:activeFrom "2015"^^xsd:gYear ;
+    prop:birthYear "2001"^^xsd:gYear ;
+    prop:hasGenre mus:Electronic,
+        mus:Pop ;
+    prop:influencedBy mus:FrankOcean ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:FearOfGodAlbum ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:GrammyBestAlbum,
+        mus:GrammyBestArtist ;
+    owl:sameAs wd:Q47737602 ;
+    foaf:name "Billie Eilish" .
+
+mus:BlondeAlbum a mus:Album ;
+    rdfs:label "Blonde" ;
+    prop:albumRating 9.6 ;
+    prop:hasGenre mus:HipHop,
+        mus:RnB ;
+    prop:producedBy mus:FrankOcean ;
+    prop:releaseYear "2016"^^xsd:gYear ;
+    dc:title "Blonde" ;
+    owl:sameAs wd:Q20900168 .
+
+mus:Blueprint a mus:Album ;
+    rdfs:label "The Blueprint" ;
+    prop:albumRating 9.3 ;
+    prop:hasGenre mus:HipHop ;
+    prop:producedBy mus:JayZ ;
+    prop:releaseYear "2001"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestRap ;
+    dc:title "The Blueprint" ;
+    owl:sameAs wd:Q212079 .
+
+mus:BobMarley a mus:Artist ;
+    rdfs:label "Bob Marley" ;
+    prop:activeFrom "1963"^^xsd:gYear ;
+    prop:birthYear "1945"^^xsd:gYear ;
+    prop:hasGenre mus:Folk ;
+    prop:originatesFrom mus:Jamaica ;
+    prop:releasedAlbum mus:Legend ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:BillboardMusicAward ;
+    owl:sameAs wd:Q6490 ;
+    foaf:name "Bob Marley" .
+
+mus:Canada a mus:Country ;
+    rdfs:label "Canada" ;
+    owl:sameAs wd:Q16 .
+
+mus:DaftPunk a mus:Artist ;
+    rdfs:label "Daft Punk" ;
+    prop:activeFrom "1993"^^xsd:gYear ;
+    prop:birthYear "1987"^^xsd:gYear ;
+    prop:collaboratedWith mus:BeyonceKnowles ;
+    prop:hasGenre mus:Electronic,
+        mus:Pop ;
+    prop:originatesFrom mus:France ;
+    prop:releasedAlbum mus:Discovery ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:GrammyBestAlbum,
+        mus:MTVVideoAward ;
+    owl:sameAs wd:Q184019 ;
+    foaf:name "Daft Punk" .
+
+mus:Discovery a mus:Album ;
+    rdfs:label "Discovery" ;
+    prop:albumRating 9.1 ;
+    prop:hasGenre mus:Electronic,
+        mus:Pop ;
+    prop:producedBy mus:DaftPunk ;
+    prop:releaseYear "2001"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    dc:title "Discovery" ;
+    owl:sameAs wd:Q584083 .
+
+mus:DrakeBell a mus:Artist ;
+    rdfs:label "Drake" ;
+    prop:activeFrom "2001"^^xsd:gYear ;
+    prop:birthYear "1986"^^xsd:gYear ;
+    prop:hasGenre mus:HipHop,
+        mus:RnB ;
+    prop:influencedBy mus:JayZ ;
+    prop:originatesFrom mus:Canada ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:BillboardMusicAward,
+        mus:GrammyBestRap ;
+    owl:sameAs wd:Q45372 ;
+    foaf:name "Drake" .
+
+mus:FearOfGodAlbum a mus:Album ;
+    rdfs:label "WHEN WE ALL FALL ASLEEP" ;
+    prop:albumRating 8.7 ;
+    prop:hasGenre mus:Electronic,
+        mus:Pop ;
+    prop:producedBy mus:BilliEilish ;
+    prop:releaseYear "2019"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    dc:title "WHEN WE ALL FALL ASLEEP" ;
+    owl:sameAs wd:Q60003934 .
+
+mus:France a mus:Country ;
+    rdfs:label "France" ;
+    owl:sameAs wd:Q142 .
+
+mus:I_Never_Loved a mus:Album ;
+    rdfs:label "I Never Loved a Man" ;
+    prop:albumRating 9.5 ;
+    prop:hasGenre mus:RnB,
+        mus:Soul ;
+    prop:producedBy mus:ArethaFranklin ;
+    prop:releaseYear "1967"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestRnB ;
+    dc:title "I Never Loved a Man" ;
+    owl:sameAs wd:Q1640395 .
+
+mus:Jamaica a mus:Country ;
+    rdfs:label "Jamaica" ;
+    owl:sameAs wd:Q766 .
+
+mus:JamesB a mus:Artist ;
+    rdfs:label "James Brown" ;
+    prop:hasGenre mus:Soul ;
+    prop:originatesFrom mus:USA ;
+    owl:sameAs wd:Q5950 .
+
+mus:KendrickLamar a mus:Artist ;
+    rdfs:label "Kendrick Lamar" ;
+    prop:activeFrom "2003"^^xsd:gYear ;
+    prop:birthYear "1987"^^xsd:gYear ;
+    prop:collaboratedWith mus:DrakeBell ;
+    prop:hasGenre mus:HipHop ;
+    prop:influencedBy mus:NinaSimone ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:TPAB ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:GrammyBestAlbum,
+        mus:GrammyBestRap ;
+    owl:sameAs wd:Q310394 ;
+    foaf:name "Kendrick Lamar" .
+
+mus:KindOfBlue a mus:Album ;
+    rdfs:label "Kind of Blue" ;
+    prop:albumRating 9.9 ;
+    prop:hasGenre mus:Jazz ;
+    prop:producedBy mus:MilesDavis ;
+    prop:releaseYear "1959"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    dc:title "Kind of Blue" ;
+    owl:sameAs wd:Q11649 .
+
+mus:Legend a mus:Album ;
+    rdfs:label "Legend" ;
+    prop:albumRating 8.9 ;
+    prop:hasGenre mus:Folk ;
+    prop:producedBy mus:BobMarley ;
+    prop:releaseYear "1984"^^xsd:gYear ;
+    dc:title "Legend" ;
+    owl:sameAs wd:Q1372542 .
+
+mus:Lemonade a mus:Album ;
+    rdfs:label "Lemonade" ;
+    prop:albumRating 9.0 ;
+    prop:hasGenre mus:Pop,
+        mus:RnB ;
+    prop:producedBy mus:BeyonceKnowles ;
+    prop:releaseYear "2016"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    dc:title "Lemonade" ;
+    owl:sameAs wd:Q19953577 .
+
+mus:Nigeria a mus:Country ;
+    rdfs:label "Nigeria" ;
+    owl:sameAs wd:Q1033 .
+
+mus:NinaSimone a mus:Artist ;
+    rdfs:label "Nina Simone" ;
+    prop:activeFrom "1954"^^xsd:gYear ;
+    prop:birthYear "1933"^^xsd:gYear ;
+    prop:hasGenre mus:Folk,
+        mus:Jazz,
+        mus:Soul ;
+    prop:originatesFrom mus:USA ;
+    prop:signedTo mus:ColumbiaRecords ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    owl:sameAs wd:Q83311 ;
+    foaf:name "Nina Simone" .
+
+mus:OKComputer a mus:Album ;
+    rdfs:label "OK Computer" ;
+    prop:albumRating 9.8 ;
+    prop:hasGenre mus:AlternativeRock ;
+    prop:producedBy mus:RadioheadBand ;
+    prop:releaseYear "1997"^^xsd:gYear ;
+    prop:wonAward mus:MercuryPrize ;
+    dc:title "OK Computer" ;
+    owl:sameAs wd:Q190500 .
+
+mus:PrinceRogers a mus:Artist ;
+    rdfs:label "Prince" ;
+    prop:activeFrom "1975"^^xsd:gYear ;
+    prop:birthYear "1958"^^xsd:gYear ;
+    prop:hasGenre mus:Pop,
+        mus:RnB,
+        mus:Rock ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:PurpleRain ;
+    prop:signedTo mus:UniversalMusic ;
+    prop:wonAward mus:GrammyBestAlbum,
+        mus:MTVVideoAward ;
+    owl:sameAs wd:Q7542 ;
+    foaf:name "Prince" .
+
+mus:PurpleRain a mus:Album ;
+    rdfs:label "Purple Rain" ;
+    prop:albumRating 9.4 ;
+    prop:hasGenre mus:Pop,
+        mus:RnB ;
+    prop:producedBy mus:PrinceRogers ;
+    prop:releaseYear "1984"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    dc:title "Purple Rain" ;
+    owl:sameAs wd:Q1386743 .
+
+mus:RadioheadBand a mus:Artist ;
+    rdfs:label "Radiohead" ;
+    prop:activeFrom "1985"^^xsd:gYear ;
+    prop:birthYear "1985"^^xsd:gYear ;
+    prop:hasGenre mus:AlternativeRock,
+        mus:Electronic ;
+    prop:influencedBy mus:DavidBowie ;
+    prop:originatesFrom mus:UK ;
+    prop:releasedAlbum mus:OKComputer ;
+    prop:signedTo mus:XLRecordings ;
+    prop:wonAward mus:MercuryPrize ;
+    owl:sameAs wd:Q135156 ;
+    foaf:name "Radiohead" .
+
+mus:SonyMusicUK a mus:RecordLabel ;
+    rdfs:label "Sony Music UK" ;
+    prop:foundedYear "1929"^^xsd:gYear ;
+    prop:originatesFrom mus:UK ;
+    owl:sameAs wd:Q212699 .
+
+mus:TPAB a mus:Album ;
+    rdfs:label "To Pimp a Butterfly" ;
+    prop:albumRating 9.7 ;
+    prop:hasGenre mus:HipHop ;
+    prop:producedBy mus:KendrickLamar ;
+    prop:releaseYear "2015"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestRap ;
+    dc:title "To Pimp a Butterfly" ;
+    owl:sameAs wd:Q18386281 .
+
+mus:Thriller a mus:Album ;
+    rdfs:label "Thriller" ;
+    prop:albumRating 9.8 ;
+    prop:hasGenre mus:Pop,
+        mus:RnB ;
+    prop:producedBy mus:MichaelJackson ;
+    prop:releaseYear "1982"^^xsd:gYear ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    dc:title "Thriller" ;
+    owl:sameAs wd:Q174305 .
+
+mus:Ziggy a mus:Album ;
+    rdfs:label "Ziggy Stardust" ;
+    prop:albumRating 9.2 ;
+    prop:hasGenre mus:AlternativeRock,
+        mus:Rock ;
+    prop:producedBy mus:DavidBowie ;
+    prop:releaseYear "1972"^^xsd:gYear ;
+    dc:title "Ziggy Stardust" ;
+    owl:sameAs wd:Q483923 .
+
+mus:DavidBowie a mus:Artist ;
+    rdfs:label "David Bowie" ;
+    prop:activeFrom "1964"^^xsd:gYear ;
+    prop:birthYear "1947"^^xsd:gYear ;
+    prop:hasGenre mus:AlternativeRock,
+        mus:Rock ;
+    prop:originatesFrom mus:UK ;
+    prop:releasedAlbum mus:Ziggy ;
+    prop:signedTo mus:ColumbiaRecords ;
+    prop:wonAward mus:BritAwardArtist ;
+    owl:sameAs wd:Q5383 ;
+    foaf:name "David Bowie" .
+
+mus:DefJamRecordings a mus:RecordLabel ;
+    rdfs:label "Def Jam Recordings" ;
+    prop:foundedYear "1983"^^xsd:gYear ;
+    prop:originatesFrom mus:USA ;
+    owl:sameAs wd:Q193023 .
+
+mus:MercuryPrize a mus:Award ;
+    rdfs:label "Mercury Prize" ;
+    owl:sameAs wd:Q230303 .
+
+mus:MilesDavis a mus:Artist ;
+    rdfs:label "Miles Davis" ;
+    prop:activeFrom "1944"^^xsd:gYear ;
+    prop:birthYear "1926"^^xsd:gYear ;
+    prop:hasGenre mus:Jazz ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:KindOfBlue ;
+    prop:signedTo mus:ColumbiaRecords ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    owl:sameAs wd:Q93341 ;
+    foaf:name "Miles Davis" .
+
+mus:PaulMcCartney a mus:Artist ;
+    rdfs:label "Paul McCartney" ;
+    prop:activeFrom "1960"^^xsd:gYear ;
+    prop:birthYear "1942"^^xsd:gYear ;
+    prop:collaboratedWith mus:MichaelJackson ;
+    prop:hasGenre mus:Pop,
+        mus:Rock ;
+    prop:originatesFrom mus:UK ;
+    prop:releasedAlbum mus:AbbeyRoad ;
+    prop:signedTo mus:ColumbiaRecords ;
+    prop:wonAward mus:BritAwardArtist,
+        mus:GrammyBestAlbum ;
+    owl:sameAs wd:Q2599 ;
+    foaf:name "Paul McCartney" .
+
+mus:XLRecordings a mus:RecordLabel ;
+    rdfs:label "XL Recordings" ;
+    prop:foundedYear "1989"^^xsd:gYear ;
+    prop:originatesFrom mus:UK ;
+    owl:sameAs wd:Q927278 .
+
+mus:ArethaFranklin a mus:Artist ;
+    rdfs:label "Aretha Franklin" ;
+    prop:activeFrom "1956"^^xsd:gYear ;
+    prop:birthYear "1942"^^xsd:gYear ;
+    prop:hasGenre mus:Jazz,
+        mus:RnB,
+        mus:Soul ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:I_Never_Loved ;
+    prop:signedTo mus:ColumbiaRecords ;
+    prop:wonAward mus:GrammyBestAlbum,
+        mus:GrammyBestRnB ;
+    owl:sameAs wd:Q130070 ;
+    foaf:name "Aretha Franklin" .
+
+mus:BeyonceKnowles a mus:Artist ;
+    rdfs:label "Beyoncé Knowles" ;
+    prop:activeFrom "1997"^^xsd:gYear ;
+    prop:birthYear "1981"^^xsd:gYear ;
+    prop:collaboratedWith mus:JayZ ;
+    prop:hasGenre mus:Pop,
+        mus:RnB ;
+    prop:influencedBy mus:ArethaFranklin,
+        mus:MichaelJackson ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:Lemonade ;
+    prop:signedTo mus:ColumbiaRecords ;
+    prop:wonAward mus:BillboardMusicAward,
+        mus:GrammyBestAlbum,
+        mus:GrammyBestRnB ;
+    owl:sameAs wd:Q11975 ;
+    foaf:name "Beyoncé Knowles" .
+
+mus:BritAwardArtist a mus:Award ;
+    rdfs:label "BRIT Award for British Artist of the Year" ;
+    owl:sameAs wd:Q1060700 .
+
+mus:FrankOcean a mus:Artist ;
+    rdfs:label "Frank Ocean" ;
+    prop:activeFrom "2009"^^xsd:gYear ;
+    prop:birthYear "1987"^^xsd:gYear ;
+    prop:hasGenre mus:HipHop,
+        mus:RnB ;
+    prop:influencedBy mus:MilesDavis ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:BlondeAlbum ;
+    prop:signedTo mus:DefJamRecordings ;
+    prop:wonAward mus:GrammyBestAlbum ;
+    owl:sameAs wd:Q5485932 ;
+    foaf:name "Frank Ocean" .
+
+mus:JayZ a mus:Artist ;
+    rdfs:label "Jay-Z" ;
+    prop:activeFrom "1989"^^xsd:gYear ;
+    prop:birthYear "1969"^^xsd:gYear ;
+    prop:collaboratedWith mus:FrankOcean ;
+    prop:hasGenre mus:HipHop ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:Blueprint ;
+    prop:signedTo mus:DefJamRecordings ;
+    prop:wonAward mus:BillboardMusicAward,
+        mus:GrammyBestRap ;
+    owl:sameAs wd:Q139952 ;
+    foaf:name "Jay-Z" .
+
+mus:MichaelJackson a mus:Artist ;
+    rdfs:label "Michael Jackson" ;
+    prop:activeFrom "1964"^^xsd:gYear ;
+    prop:birthYear "1958"^^xsd:gYear ;
+    prop:hasGenre mus:Pop,
+        mus:RnB,
+        mus:Soul ;
+    prop:influencedBy mus:JamesB ;
+    prop:originatesFrom mus:USA ;
+    prop:releasedAlbum mus:Thriller ;
+    prop:signedTo mus:SonyMusicUK ;
+    prop:wonAward mus:GrammyBestAlbum,
+        mus:GrammyBestArtist,
+        mus:MTVVideoAward ;
+    owl:sameAs wd:Q2831 ;
+    foaf:name "Michael Jackson" .
+
+mus:AlternativeRock a mus:Genre ;
+    rdfs:label "Alternative Rock" ;
+    prop:partOfGenre mus:Rock ;
+    owl:sameAs wd:Q11366 .
+
+mus:BillboardMusicAward a mus:Award ;
+    rdfs:label "Billboard Music Award" ;
+    owl:sameAs wd:Q665413 .
+
+mus:Folk a mus:Genre ;
+    rdfs:label "Folk music" ;
+    owl:sameAs wd:Q43343 .
+
+mus:GrammyBestArtist a mus:Award ;
+    rdfs:label "Grammy Award for Best New Artist" ;
+    owl:sameAs wd:Q175252 .
+
+mus:GrammyBestRnB a mus:Award ;
+    rdfs:label "Grammy Award for Best R&B Album" ;
+    owl:sameAs wd:Q579790 .
+
+mus:Jazz a mus:Genre ;
+    rdfs:label "Jazz music" ;
+    owl:sameAs wd:Q8341 .
+
+mus:MTVVideoAward a mus:Award ;
+    rdfs:label "MTV Video Music Award" ;
+    owl:sameAs wd:Q371083 .
+
+mus:Electronic a mus:Genre ;
+    rdfs:label "Electronic music" ;
+    owl:sameAs wd:Q9778 .
+
+mus:GrammyBestRap a mus:Award ;
+    rdfs:label "Grammy Award for Best Rap Album" ;
+    owl:sameAs wd:Q579974 .
+
+mus:ColumbiaRecords a mus:RecordLabel ;
+    rdfs:label "Columbia Records" ;
+    prop:foundedYear "1887"^^xsd:gYear ;
+    prop:originatesFrom mus:USA ;
+    owl:sameAs wd:Q183412 .
+
+mus:RecordLabel a owl:Class ;
+    rdfs:label "A record label company" .
+
+mus:Country a owl:Class ;
+    rdfs:label "A country of origin" .
+
+mus:HipHop a mus:Genre ;
+    rdfs:label "Hip-hop music" ;
+    owl:sameAs dbr:Hip_hop_music .
+
+mus:Rock a mus:Genre ;
+    rdfs:label "Rock music" ;
+    owl:sameAs wd:Q11399 .
+
+mus:Soul a mus:Genre ;
+    rdfs:label "Soul music" ;
+    prop:partOfGenre mus:RnB ;
+    owl:sameAs wd:Q131272 .
+
+mus:UK a mus:Country ;
+    rdfs:label "UK" ;
+    owl:sameAs dbr:United_Kingdom .
+
+mus:Award a owl:Class ;
+    rdfs:label "A music industry award" .
+
+mus:UniversalMusic a mus:RecordLabel ;
+    rdfs:label "Universal Music" ;
+    prop:foundedYear "1934"^^xsd:gYear ;
+    prop:originatesFrom mus:USA ;
+    owl:sameAs wd:Q183563 .
+
+mus:Genre a owl:Class ;
+    rdfs:label "A music genre" .
+
+mus:RnB a mus:Genre ;
+    rdfs:label "Rhythm and Blues" ;
+    owl:sameAs wd:Q45981 .
+
+mus:Album a owl:Class ;
+    rdfs:label "A studio or live album" .
+
+mus:Pop a mus:Genre ;
+    rdfs:label "Pop music" ;
+    owl:sameAs wd:Q37073 .
+
+mus:USA a mus:Country ;
+    rdfs:label "USA" ;
+    owl:sameAs dbr:United_States .
+
+mus:GrammyBestAlbum a mus:Award ;
+    rdfs:label "Grammy Award for Album of the Year" ;
+    owl:sameAs wd:Q41254 .
+
+mus:Artist a owl:Class ;
+    rdfs:label "A musical artist (solo or group)" .
+
